@@ -1,9 +1,11 @@
 <template>
   <div id="app">
-    app
+    <div>
+      <a-button type="primary">Primary</a-button>
+    </div>
   </div>
 </template>
 
 <style lang="less">
-@import './assets/css/base.css';
+@import "./assets/css/base.css";
 </style>
